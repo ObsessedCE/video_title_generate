@@ -1,0 +1,7 @@
+venv
+output
+src/tmp
+.idea
+
+src/audio_util.py
+data/large-v1.pt
